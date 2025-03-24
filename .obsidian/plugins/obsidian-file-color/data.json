@@ -1,0 +1,35 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "sE8WZixwIOHpPA6M3fkqj",
+      "name": "Red",
+      "value": "#fe9595"
+    },
+    {
+      "id": "8FoCZrRRIVtippzQqpmsu",
+      "name": "Green",
+      "value": "#b8ffb3"
+    },
+    {
+      "id": "C-TF7Bd3KgCFcYBV7cRtA",
+      "name": "Purple",
+      "value": "#e7a3ff"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "World/Races",
+      "color": "C-TF7Bd3KgCFcYBV7cRtA"
+    },
+    {
+      "path": "World/Magic",
+      "color": "8FoCZrRRIVtippzQqpmsu"
+    },
+    {
+      "path": "World/Biomes",
+      "color": "sE8WZixwIOHpPA6M3fkqj"
+    }
+  ]
+}

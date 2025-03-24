@@ -1,0 +1,431 @@
+{
+  "main": {
+    "id": "58ad72145186f37a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7de3a47defce8638",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eae82785c42ddb68",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "World/Magic/Animacy/Animacy types.md"
+              },
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "afe509227a6e37f1",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "World/Magic/Animacy/Animacy types.md"
+              },
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "9d8a82ba9be30b40",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "This is a file i pushed from my pc and pulled to my laptop",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2 - Other/This is a file i pushed from my pc and pulled to my laptop.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"This is a file i pushed from my pc and pulled to my laptop\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Favorite Games",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2 - Other/Favorite Games.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Favorite Games\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.1612}"
+                },
+                {
+                  "title": "Fav games copy",
+                  "icon": "lucide-layout-dashboard",
+                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"2 - Other/Games/Fav games copy.canvas\",\"viewState\":{\"x\":-142,\"y\":519.5,\"zoom\":-0.7964108161648314}},\"icon\":\"lucide-layout-dashboard\",\"title\":\"Fav games copy\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Favorite Games",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2 - Other/Games/Favorite Games.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Favorite Games\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Fav games copy",
+                  "icon": "lucide-layout-dashboard",
+                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"2 - Other/Games/Fav games copy.canvas\",\"viewState\":{\"x\":-142,\"y\":519.5,\"zoom\":-0.7964108161648314}},\"icon\":\"lucide-layout-dashboard\",\"title\":\"Fav games copy\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Minecraft Server - Forest Odessy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2 - Other/Games/Minecraft/Minecraft Server - Forest Odessy.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Minecraft Server - Forest Odessy\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Minecraft Server - Forest Odessy 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2 - Other/Games/Minecraft/Minecraft Server - Forest Odessy 1.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Minecraft Server - Forest Odessy 1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Minecraft Server",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2 - Other/Games/Minecraft/Minecraft Server.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Minecraft Server\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Minecraft Server",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2 - Other/Games/Minecraft Server.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Minecraft Server\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Minecraft - Dark Void",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2 - Other/Games/Minecraft/Minecraft - Dark Void.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Minecraft - Dark Void\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "25.03.06 Organizmy w środowisku i tolerancja ekologiczna",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - School/Klasa 3/Biologia/25.03.06 Organizmy w środowisku i tolerancja ekologiczna.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"25.03.06 Organizmy w środowisku i tolerancja ekologiczna\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":30,\"ch\":18}},\"scroll\":16.8602}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Biomes/Verdant Highlands/Verdant Highlands.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Verdant Highlands"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "403e7c78c7ef41fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a1419262a57be42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "beff38c0951a0880",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d9835be53f7daba2",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 455.5
+  },
+  "right": {
+    "id": "10847445d600ab00",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c5d95897bf755a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c99dac415b786462",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Races/Owlin/Owlin.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Owlin"
+            }
+          },
+          {
+            "id": "06e889d61516af70",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Races/Owlin/Owlin.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Owlin"
+            }
+          },
+          {
+            "id": "08e1c151adb47bc6",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9af22cbf32b801c7",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "World/Races/Human/Human.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Human"
+            }
+          },
+          {
+            "id": "d3a8200602775451",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "7e5179e088a69eb2",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 494.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "copilot:Open Copilot Chat": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-stille:Toggle Stille": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "beff38c0951a0880",
+  "lastOpenFiles": [
+    "2 - Other/This is a file i pushed from my pc and pulled to my laptop.md",
+    "2 - Other/Programming/FINISH THIS CARD GAME.md",
+    "2 - Other/Favorite Games.md",
+    "2 - Other/Games/Fav games copy.canvas",
+    "2 - Other/Games/Favorite Games.md",
+    "2 - Other/Games/Minecraft/Minecraft Server - Forest Odessy.md",
+    "2 - Other/Games/Minecraft/Minecraft Server - Forest Odessy 1.md",
+    "2 - Other/Games/Minecraft/Minecraft Server.md",
+    "2 - Other/Games/Minecraft Server.md",
+    "2 - Other/Games/Minecraft/Minecraft - Dark Void.md",
+    "1 - School/Klasa 3/Biologia/25.03.06 Organizmy w środowisku i tolerancja ekologiczna.md",
+    "2 - Other/To do Lists/General - To do list.md",
+    "2 - Other/TestGit.md",
+    "KW/Documents/GitHub/Notes",
+    "KW/Documents/GitHub",
+    "KW/Documents",
+    "KW",
+    "1 - School/Klasa 3/Biologia/25.03.18 Ewolucjonizm - Notatka na Sprawdzian.md",
+    "1 - School/Klasa 3/Historia/Dział V/25.03.18 Kampania Polska.md",
+    "1 - School/Klasa 3/Biologia/Ewolucjonizm/Historia Ewolucji.md",
+    "1 - School/Klasa 3/Biologia/Ewolucjonizm",
+    "1 - School/Klasa 3/Podręczniki.md",
+    "1 - School/Klasa 3/Historia/Dział I/24.9.18 Wojna Krymska, Zjednoczenie Włoch, Zjednoczenie Niemiec.md",
+    "1 - School/Klasa 3/PP/Poszukiwanie Pracy.md",
+    "1 - School/Klasa 3/PP/Umowy i ich charakterystyka.md",
+    "1 - School/Klasa 3/PP/24.12.9 Prawa i obowiązki pracownika i pracodawcy.md",
+    "1 - School/Klasa 3/Chemia/25.03.01 Hydrokwasy, Aminokwasy i Białka.md",
+    "1 - School/Klasa 3/Chemia/25.03.17 Monosacharydy - Glukoza i Fruktoza.md",
+    "copilot-custom-prompts/Finish the text.md",
+    "2 - Other/Purchases.md",
+    "2 - Other/General - To do list.md",
+    "World/Magic/Negative/Negative.md",
+    "World/Magic/Negative/Art/Vector art.jpg",
+    "World/Magic/Negative/Negative.canvas",
+    "Untitled.canvas",
+    "World/Magic/Animacy",
+    "World/Magic/Negative/Art/Banner.jpg",
+    "World/Magic/Negative/Art",
+    "World/Magic/Negative",
+    "World/Magic/Shadow",
+    "World/Races/Plasmoid/Art/plasmoid banner.jpg",
+    "World/Races/Plasmoid/Art",
+    "World/Races/Owlin/Art/example owlin.png",
+    "World/Races/Forged/Art/forged banner.jpg",
+    "World/Races/Human/Art/human banner.png",
+    "World/Races/Cambion/Art/cambion_example2-removebg-preview.png",
+    "World/Races/Cambion/Art/cambion example2.png",
+    "World/Races/Cambion/Art/cambion example1.png",
+    "World/Races/Cambion/Art/cambion banner.png"
+  ]
+}
