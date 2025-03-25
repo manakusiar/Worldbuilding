@@ -13,7 +13,6 @@ kanban-plugin: board
 
 ## Magic
 
-- [ ] General Definition
 - [ ] Telekenesis / Psychokenesis
 - [ ] Construction spellworking
 - [ ] Enchanting
