@@ -1,7 +1,7 @@
 {
   "isPlusUser": false,
-  "plusLicenseKey": "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",
-  "openAIApiKey": "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",
+  "plusLicenseKey": "",
+  "openAIApiKey": "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",
   "openAIOrgId": "",
   "huggingfaceApiKey": "",
   "cohereApiKey": "",
@@ -14,7 +14,7 @@
   "googleApiKey": "",
   "openRouterAiApiKey": "",
   "defaultChainType": "copilot_plus",
-  "defaultModelKey": "copilot-plus-flash|copilot-plus",
+  "defaultModelKey": "gpt-4o-mini|openai",
   "embeddingModelKey": "copilot-plus-small|copilot-plus",
   "temperature": 0.1,
   "maxTokens": 1000,

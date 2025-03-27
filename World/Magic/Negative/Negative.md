@@ -22,10 +22,10 @@ flexGrow=1
 The generally accepted easiest form of manipulating space in such a manor goes as such:
 1. **Attunement**:
 	  - The caster has to attune a extreme amount of mana, this differs from person to person, from rase to rase and can be eased with the use of powerful artifacts. This is achieved by repeated use of negative magic, excessive study or artifacts. 
-2. **Mana concentration** - [[Explanation#Casimir Effect as an Example]]:
+2. **Mana concentration** - [[Explanation#Casimir Effect as an Example|Explenation]]:
 	- The casters mana has to be compressed, an incredible amount of both attuned and condensed energy to trigger the formation of the wormhole. This is purely a skill, and has to be mastered in order for the caster to be able to create a full personal use "portal". 
 	- While naturally accruing wormholes require the energy of up to multiple collapsing stars to form, the ones we wish to create are far less "brute", more refined, smaller and much more stable. 
-3. **Forming and upholding** - [[Explanation#Scaling Up Exotic Energy]]:
+3. **Forming and upholding** - [[Explanation#Scaling Up Exotic Energy|Explenation]]:
 	- This is by far the most difficult part which requires the caster to previously master the formation of mana into a form of "exotic matter". This is something that can be learnt by both understanding the concept and excessive practice. If the mage is unable to constantly create and bend the exotic mana to their will, then all the other steps up to this point are for not, since the wormhole will close almost immediately as the space binds and heals itself back together into its original form. 
 	- A theoretical naturally occurring wormhole would require a form of exotic matter (usually negative energy), which in this case we will achieve by inputting a stable stream of mana, honed into such a state. Even if the caster is able to produce this kind of mana, the use and control over what, where and when it does is by far one of the most complicated and unusual form of magical manipulation that a mage can learn.
 	- When the mage has successfully created a temporarily stable portal and is constantly feeding it a stream of mana the formation is complete - the portal is open and ready for use.

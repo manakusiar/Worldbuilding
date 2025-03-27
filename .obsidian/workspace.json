@@ -41,45 +41,18 @@
               ]
             },
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "World/Magic/Animacy/Animacy types.md"
-              },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "9d8a82ba9be30b40",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Verdant Highlands",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Biomes/Verdant Highlands/Verdant Highlands.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Verdant Highlands\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Magic/Magic.md",
+                "file": "World/Races/Nyxil/Nyxil.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Magic"
+              "title": "Nyxil"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Races/Owlin/Owlin.md",
+                "file": "World/Races/Nyxil/Nyxil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +153,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Owlin"
+              "title": "Backlinks for Nyxil"
             }
           },
           {
@@ -269,8 +242,8 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "message-square",
+              "title": "Copilot"
             }
           },
           {
@@ -316,8 +289,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9d8a82ba9be30b40",
+  "active": "7e5179e088a69eb2",
   "lastOpenFiles": [
+    "World/Races/Nyxil/nyxil_banner.webp",
+    "World/Races/Nyxil/nyxil_banner.webp.crdownload",
+    "World/Races/Nyxil/Nyxil.md",
+    "World/Races/Human/Human.md",
+    "World/Races/Nyxil/nyxil_banner.jpg.crdownload",
+    "World/Races/Nyxil/nyxil_banner.jpg",
+    "World/Races/Nyxil/nyxil_example3.jpg",
+    "World/Races/Nyxil/nyxil_example2.jpg",
+    "World/Races/Nyxil/nyxil_example.webp",
+    "World/Races/Nyxil/nyxil_example.jpg",
+    "World/Races/Nyxil/Moonelf.webp.crdownload",
+    "World/Races/Nyxil/nyxil_example3.jpg.crdownload",
+    "World/Races/Nyxil/nyxil_example2.jpg.crdownload",
+    "World/Races/Owlin/Owlin.md",
+    "World/Magic/Negative/Negative.md",
+    "World/Races/Nyxil/nyxil_example.jpg.crdownload",
+    "World/Races/Cambion/Cambion.md",
+    "World/Magic/Magic.md",
+    "World/Magic/Shadow/Shadow.md",
+    "World/Races/Plasmoid/Plasmoid.md",
+    "World/General Kanban.md",
+    "World/Races/Nyxil",
+    "World/Magic/Animacy/Animacy.md",
+    "World/Magic/Untitled",
+    "World/Magic/Enchanting/Enchanting.md",
+    "World/Magic/Enchanting/enchanting_banner.jpg",
+    "World/Magic/Enchanting/enchanting_banner.png",
+    "World/Magic/Enchanting/enchanting_banner.png.crdownload",
+    "World/Magic/Enchanting/enchanting_banner.jpg.crdownload",
     "World/Biomes/Verdant Highlands/Verdant Highlands.md",
     "2 - Other/This is a file i pushed from my pc and pulled to my laptop.md",
     "2 - Other/Programming/FINISH THIS CARD GAME.md",
@@ -332,40 +334,11 @@
     "1 - School/Klasa 3/Biologia/25.03.06 Organizmy w środowisku i tolerancja ekologiczna.md",
     "2 - Other/To do Lists/General - To do list.md",
     "2 - Other/TestGit.md",
-    "KW/Documents/GitHub/Notes",
-    "KW/Documents/GitHub",
-    "KW/Documents",
-    "KW",
     "1 - School/Klasa 3/Biologia/25.03.18 Ewolucjonizm - Notatka na Sprawdzian.md",
-    "1 - School/Klasa 3/Historia/Dział V/25.03.18 Kampania Polska.md",
-    "1 - School/Klasa 3/Biologia/Ewolucjonizm/Historia Ewolucji.md",
-    "1 - School/Klasa 3/Biologia/Ewolucjonizm",
-    "1 - School/Klasa 3/Podręczniki.md",
-    "1 - School/Klasa 3/Historia/Dział I/24.9.18 Wojna Krymska, Zjednoczenie Włoch, Zjednoczenie Niemiec.md",
-    "1 - School/Klasa 3/PP/Poszukiwanie Pracy.md",
-    "1 - School/Klasa 3/PP/Umowy i ich charakterystyka.md",
-    "1 - School/Klasa 3/PP/24.12.9 Prawa i obowiązki pracownika i pracodawcy.md",
-    "1 - School/Klasa 3/Chemia/25.03.01 Hydrokwasy, Aminokwasy i Białka.md",
-    "1 - School/Klasa 3/Chemia/25.03.17 Monosacharydy - Glukoza i Fruktoza.md",
-    "copilot-custom-prompts/Finish the text.md",
-    "2 - Other/Purchases.md",
-    "2 - Other/General - To do list.md",
     "World/Magic/Negative/Art/Vector art.jpg",
     "World/Magic/Negative/Negative.canvas",
     "Untitled.canvas",
-    "World/Magic/Animacy",
     "World/Magic/Negative/Art/Banner.jpg",
-    "World/Magic/Negative/Art",
-    "World/Magic/Negative",
-    "World/Magic/Shadow",
-    "World/Races/Plasmoid/Art/plasmoid banner.jpg",
-    "World/Races/Plasmoid/Art",
-    "World/Races/Owlin/Art/example owlin.png",
-    "World/Races/Forged/Art/forged banner.jpg",
-    "World/Races/Human/Art/human banner.png",
-    "World/Races/Cambion/Art/cambion_example2-removebg-preview.png",
-    "World/Races/Cambion/Art/cambion example2.png",
-    "World/Races/Cambion/Art/cambion example1.png",
-    "World/Races/Cambion/Art/cambion banner.png"
+    "World/Races/Plasmoid/Art/plasmoid banner.jpg"
   ]
 }

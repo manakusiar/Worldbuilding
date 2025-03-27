@@ -15,8 +15,6 @@ kanban-plugin: board
 
 - [ ] Telekenesis / Psychokenesis
 - [ ] Construction spellworking
-- [ ] Enchanting
-- [ ] Summoning / Creating life
 
 
 ## Biomes
