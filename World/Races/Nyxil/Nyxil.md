@@ -1,3 +1,7 @@
+---
+banner: "[[nyxil_banner.jpg]]"
+---
+
 # Physical Characteristics
 
 

@@ -1,3 +1,7 @@
+---
+banner: "[[shadow_banner.jpg]]"
+---
+
 ## Description
 Shadow magic is a fascinating and intricate form of manipulation that involves the control of clouds of "shadow." These clouds can often be mistaken for real shadows, but in reality, they are gaseous constructs made of mana, a mystical energy that permeates the universe. The ability to create and manipulate these shadowy forms relies heavily on the caster's affinity for magic, which can be natural, developed through the use of powerful artifacts, or honed through rigorous training and extensive experience. For instance, a novice might struggle to create convincing shadow constructs, while a seasoned mage could effortlessly weave intricate patterns that dance and flicker in the air, creating an illusion of depth and movement.
 
