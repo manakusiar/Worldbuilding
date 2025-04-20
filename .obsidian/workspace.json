@@ -788,7 +788,7 @@
       {
         "id": "2c5d95897bf755a2",
         "type": "tabs",
-        "dimension": 33.57843137254902,
+        "dimension": 56.98529411764706,
         "children": [
           {
             "id": "c99dac415b786462",
@@ -952,7 +952,7 @@
       {
         "id": "64d62b2154c67629",
         "type": "tabs",
-        "dimension": 66.42156862745098,
+        "dimension": 43.01470588235294,
         "children": [
           {
             "id": "8c08a26f3cfa8159",
@@ -1037,7 +1037,7 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "7e5179e088a69eb2",
+  "active": "d60198170335c850",
   "lastOpenFiles": [
     "Campains/Kingdom of Thult/Acts/Act I/The Bandit Camp/The Bandit Camp.md",
     "Campains/Kingdom of Thult/Acts/Act I/The Bandit Camp/Design.md",
