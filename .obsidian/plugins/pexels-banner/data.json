@@ -8,7 +8,7 @@
   "imageOrientation": "landscape",
   "numberOfImages": 10,
   "defaultKeywords": "nature, abstract, landscape, technology, art, cityscape, wildlife, ocean, mountains, forest, space, architecture, food, travel, science, music, sports, fashion, business, education, health, culture, history, weather, transportation, industry, people, animals, plants, patterns",
-  "yPosition": 50,
+  "yPosition": 21,
   "xPosition": 50,
   "customBannerField": [
     "banner"
@@ -83,7 +83,7 @@
   "bannerHeight": 350,
   "fade": -75,
   "bannerFadeInAnimationDuration": 300,
-  "borderRadius": 17,
+  "borderRadius": 0,
   "showPinIcon": true,
   "pinnedImageFolder": "pixel-banner-images",
   "showReleaseNotes": true,
@@ -100,7 +100,7 @@
   "showSelectImageIcon": true,
   "defaultSelectImagePath": "",
   "useShortPath": true,
-  "bannerGap": 12,
+  "bannerGap": 0,
   "bannerIconSize": 31,
   "bannerIconXPosition": 96,
   "bannerIconOpacity": 15,

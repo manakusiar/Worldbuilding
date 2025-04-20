@@ -7,13 +7,10 @@ kanban-plugin: board
 ## Races
 
 - [ ] Angel
-- [ ] Dark forest humanoid 
-	- Adept in shadow magic
 
 
 ## Magic
 
-- [ ] Telekenesis / Psychokenesis
 - [ ] Construction spellworking
 
 

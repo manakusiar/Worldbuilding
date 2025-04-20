@@ -18,6 +18,276 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Campaign",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Kingdom of Thult/Overviews/Campaign.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Campaign\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":19},\"to\":{\"line\":0,\"ch\":19}}}"
+                },
+                {
+                  "title": "General Story",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Kingdom of Thult/General Story.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"General Story\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":21},\"to\":{\"line\":3,\"ch\":21}},\"scroll\":0}"
+                },
+                {
+                  "title": "Campaign",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Kingdom of Thult/Overviews/Campaign.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Campaign Overview\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":19},\"to\":{\"line\":0,\"ch\":19}},\"scroll\":0}"
+                },
+                {
+                  "title": "General Story",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Kingdom of Thult/General Story.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Kingdom of Thult - Story\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":67,\"ch\":0},\"to\":{\"line\":67,\"ch\":0}},\"scroll\":65.60614811106642}"
+                },
+                {
+                  "title": "World Overview",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Kingdom of Thult/Overviews/World.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"World Overview\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+                },
+                {
+                  "title": "Campaign",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Kingdom of Thult/Overviews/Campaign.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Kingdom of Thult – Campaign Overview\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "World Overview",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Kingdom of Thult/Overviews/World.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"World Overview\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Creating an Eerie and Scary Atmosphere in Act II",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Kingdom of Thult/Acts/Act II/Creating an Eerie and Scary Atmosphere in Act II.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Creating an Eerie and Scary Atmosphere in Act II\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":11.499300549913952}"
+                },
+                {
+                  "title": "Quest - The Rising Song of the Hydra",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Kingdom of Thult/Acts/Act II/Quest - The Rising Song of the Hydra.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Quest - The Rising Song of the Hydra\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "General Story",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Kingdom of Thult/General Story.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Kingdom of Thult - Story\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":57,\"ch\":1},\"to\":{\"line\":57,\"ch\":1}},\"scroll\":68.11608006403996}"
+                },
+                {
+                  "title": "SRD-OGL_V5.1",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"Campains/SRD-OGL_V5.1.pdf\"},\"icon\":\"lucide-file-text\",\"title\":\"SRD-OGL_V5.1\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Expanded Investigative Journey Through Eb",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Kingdom of Thult/Acts/Act II/Expanded Investigative Journey Through Eb.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Expanded Investigative Journey Through Eb\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":18},\"to\":{\"line\":9,\"ch\":18}},\"scroll\":0.01513002386611686}"
+                },
+                {
+                  "title": "Quest - The Rising Song of the Hydra",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Kingdom of Thult/Acts/Act II/Quest - The Rising Song of the Hydra.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Quest - The Rising Song of the Hydra\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.00756501193305843}"
+                },
+                {
+                  "title": "Expanded Investigative Journey Through Eb",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Kingdom of Thult/Acts/Act II/Expanded Investigative Journey Through Eb.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Expanded Investigative Journey Through Eb\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.00756501193305843}"
+                },
+                {
+                  "title": "Creating an Eerie and Scary Atmosphere in Act II",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Kingdom of Thult/Acts/Act II/Creating an Eerie and Scary Atmosphere in Act II.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Creating an Eerie and Scary Atmosphere in Act II\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":162},\"to\":{\"line\":5,\"ch\":162}},\"scroll\":32.19086024703036}"
+                },
+                {
+                  "title": "Expanded Investigative Journey Through Eb",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Kingdom of Thult/Acts/Act II/Expanded Investigative Journey Through Eb.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Expanded Investigative Journey Through Eb\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":0},\"to\":{\"line\":2,\"ch\":0}},\"scroll\":6.290674738182348}"
+                },
+                {
+                  "title": "Quest - The Rising Song of the Hydra",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Kingdom of Thult/Acts/Act II/Quest - The Rising Song of the Hydra.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Quest - The Rising Song of the Hydra\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":33},\"to\":{\"line\":2,\"ch\":33}},\"scroll\":1.0892857115825558}"
+                },
+                {
+                  "title": "General Story",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Kingdom of Thult/General Story.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Kingdom of Thult - Story\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":57,\"ch\":1},\"to\":{\"line\":57,\"ch\":1}},\"scroll\":56.99059184924317}"
+                },
+                {
+                  "title": "Campaign",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Kingdom of Thult/Overviews/Campaign.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Kingdom of Thult – Campaign Overview\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":27},\"to\":{\"line\":6,\"ch\":32}},\"scroll\":3.2270838419596353}"
+                },
+                {
+                  "title": "Dungeon Master's Guide",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"Campains/Dungeon Master's Guide.pdf\"},\"icon\":\"lucide-file-text\",\"title\":\"Dungeon Master's Guide\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Monster Manual",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"Campains/Monster Manual.pdf\"},\"icon\":\"lucide-file-text\",\"title\":\"Monster Manual\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Players Handbook",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"Campains/Players Handbook.pdf\"},\"icon\":\"lucide-file-text\",\"title\":\"Players Handbook\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Description",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Regions/Eb/Count Alaric Ambrose/Description.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Description\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":20},\"to\":{\"line\":13,\"ch\":20}}}"
+                },
+                {
+                  "title": "Z - D&D Character Sheet old",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Regions/Eb/Count Alaric Ambrose/Z - D&D Character Sheet old.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Z - D&D Character Sheet old\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":13},\"to\":{\"line\":4,\"ch\":13}}}"
+                },
+                {
+                  "title": "Description",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Regions/Eb/Count Alaric Ambrose/Description.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Description\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":23},\"to\":{\"line\":3,\"ch\":23}}}"
+                },
+                {
+                  "title": "Z - D&D Character Sheet old",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Regions/Eb/Count Alaric Ambrose/Z - D&D Character Sheet old.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"D&D Character Sheet\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":1},\"to\":{\"line\":0,\"ch\":2}}}"
+                },
+                {
+                  "title": "Description",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Regions/Eb/Count Alaric Ambrose/Description.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Description\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":23},\"to\":{\"line\":3,\"ch\":23}},\"scroll\":0}"
+                },
+                {
+                  "title": "Z - D&D Character Sheet old",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Regions/Eb/Count Alaric Ambrose/Z - D&D Character Sheet old.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"D&D Character Sheet\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":52,\"ch\":20},\"to\":{\"line\":52,\"ch\":20}},\"scroll\":27.696970776311858}"
+                },
+                {
+                  "title": "Description",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Regions/Eb/Count Alaric Ambrose/Description.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Description\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Z - D&D Character Sheet old",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Regions/Eb/Count Alaric Ambrose/Z - D&D Character Sheet old.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Count Alaric Ambrose of Eb\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":32},\"to\":{\"line\":12,\"ch\":32}},\"scroll\":0}"
+                },
+                {
+                  "title": "Tavernkeep",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Regions/Eb/Tavern/Tavernkeep.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Tavernkeep\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":42},\"to\":{\"line\":2,\"ch\":42}}}"
+                },
+                {
+                  "title": "False Hydra",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"Campains/Monsters/False Hydra.pdf\"},\"icon\":\"lucide-file-text\",\"title\":\"False Hydra\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "SRD-OGL_V5.1",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"Campains/SRD-OGL_V5.1.pdf\"},\"icon\":\"lucide-file-text\",\"title\":\"SRD-OGL_V5.1\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Players Handbook",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"Campains/Players Handbook.pdf\"},\"icon\":\"lucide-file-text\",\"title\":\"Players Handbook\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "SRD-OGL_V5.1",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"Campains/SRD-OGL_V5.1.pdf\"},\"icon\":\"lucide-file-text\",\"title\":\"SRD-OGL_V5.1\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Magic",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Magic/Magic.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Magic\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":162},\"to\":{\"line\":8,\"ch\":162}}}"
+                },
+                {
+                  "title": "General Kanban",
+                  "icon": "lucide-trello",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"World/General Kanban.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}},\"icon\":\"lucide-trello\",\"title\":\"General Kanban\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Human",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Races/Human/Human.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Human\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":463},\"to\":{\"line\":3,\"ch\":463}},\"scroll\":3.85500005086263}"
+                },
+                {
+                  "title": "Verdant Highlands",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Biomes/Verdant Highlands/Verdant Highlands.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Verdant Highlands\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Forged",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Races/Forged/Forged.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Forged\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}},\"scroll\":0.76}"
+                },
+                {
+                  "title": "Cambion",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Races/Cambion/Cambion.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cambion\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                },
+                {
+                  "title": "Magic",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Magic/Magic.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Magic\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":198},\"to\":{\"line\":8,\"ch\":198}},\"scroll\":0}"
+                },
+                {
+                  "title": "General Kanban",
+                  "icon": "lucide-trello",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"World/General Kanban.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}},\"icon\":\"lucide-trello\",\"title\":\"General Kanban\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Magic",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Magic/Magic.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Magic\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":346},\"to\":{\"line\":6,\"ch\":346}},\"scroll\":2.372093023255814}"
+                },
+                {
+                  "title": "Nyxil",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Races/Nyxil/Nyxil.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Nyxil\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":0},\"to\":{\"line\":31,\"ch\":0}},\"scroll\":0.7420613068392018}"
+                },
+                {
                   "title": "Magic",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Magic/Magic.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Magic\"}",
@@ -268,15 +538,183 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Races/Nyxil/Nyxil.md",
+                "file": "Campains/Kingdom of Thult/Overviews/World.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nyxil"
+              "title": "World"
+            }
+          },
+          {
+            "id": "2fb2fc828a4dc523",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "The Bandit Camp",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Kingdom of Thult/Acts/Act I/The Bandit Camp/The Bandit Camp.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Bandit Camp\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":8},\"to\":{\"line\":8,\"ch\":8}},\"scroll\":4.4176586266878335}"
+                },
+                {
+                  "title": "Design",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Kingdom of Thult/Acts/Act I/The Bandit Camp/Design.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Design\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "The Bandit Camp",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Kingdom of Thult/Acts/Act I/The Bandit Camp/The Bandit Camp.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Bandit Camp\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":8},\"to\":{\"line\":8,\"ch\":8}},\"scroll\":0.9254}"
+                },
+                {
+                  "title": "Design",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Kingdom of Thult/Acts/Act I/The Bandit Camp/Design.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Design\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "The Bandit Camp",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Kingdom of Thult/Acts/Act I/The Bandit Camp/The Bandit Camp.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Bandit Camp\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":8},\"to\":{\"line\":8,\"ch\":8}},\"scroll\":0.9328}"
+                },
+                {
+                  "title": "Design",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Kingdom of Thult/Acts/Act I/The Bandit Camp/Design.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Desighn\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "The Bandit Camp",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Kingdom of Thult/Acts/Act I/The Bandit Camp/The Bandit Camp.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Bandit Camp\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":8},\"to\":{\"line\":8,\"ch\":8}},\"scroll\":0.9328358142565556}"
+                },
+                {
+                  "title": "The Thorne Family",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Regions/Eb/Tavern/The Thorne Family.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Thorne Family\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":143},\"to\":{\"line\":5,\"ch\":143}}}"
+                },
+                {
+                  "title": "Description",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Regions/Eb/Count Alaric Ambrose/Description.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Description\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Z - D&D Character Sheet old",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Regions/Eb/Count Alaric Ambrose/Z - D&D Character Sheet old.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Z - D&D Character Sheet old\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Thorne Family",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Regions/Eb/Tavern/The Thorne Family.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Thorne Family\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":176},\"to\":{\"line\":8,\"ch\":176}}}"
+                },
+                {
+                  "title": "Tavernkeep",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Regions/Eb/Tavern/Tavernkeep.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Tavernkeep\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":169},\"to\":{\"line\":2,\"ch\":169}}}"
+                },
+                {
+                  "title": "Dungeon Master's Guide",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"Campains/Dungeon Master's Guide.pdf\"},\"icon\":\"lucide-file-text\",\"title\":\"Dungeon Master's Guide\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "The Bandit Camp",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Kingdom of Thult/Acts/Act I/The Bandit Camp/The Bandit Camp.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Bandit Camp\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":8},\"to\":{\"line\":8,\"ch\":8}}}"
+                },
+                {
+                  "title": "General Story",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Kingdom of Thult/General Story.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"General Story\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                },
+                {
+                  "title": "Eb",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Campains/Kingdom of Thult/Maps/Eb.png\"},\"icon\":\"lucide-image\",\"title\":\"Eb\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Kingdom of Thult",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Campains/Kingdom of Thult/Maps/Kingdom of Thult.png\"},\"icon\":\"lucide-image\",\"title\":\"Kingdom of Thult\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Solonte",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Campains/Kingdom of Thult/Maps/Solonte.png\"},\"icon\":\"lucide-image\",\"title\":\"Solonte\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Kingdom of Thult",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Campains/Kingdom of Thult/Maps/Kingdom of Thult.png\"},\"icon\":\"lucide-image\",\"title\":\"Kingdom of Thult\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Solonte",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Campains/Kingdom of Thult/Maps/Solonte.png\"},\"icon\":\"lucide-image\",\"title\":\"Solonte 2025-04-15-14-47\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Kingdom of Thult",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Campains/Kingdom of Thult/Maps/Kingdom of Thult.png\"},\"icon\":\"lucide-image\",\"title\":\"Solonte 2025-04-15-14-47 (1)\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Eb",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Campains/Kingdom of Thult/Maps/Eb.png\"},\"icon\":\"lucide-image\",\"title\":\"eb-min\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "General Story",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Kingdom of Thult/General Story.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"General Story\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":13},\"to\":{\"line\":3,\"ch\":13}},\"scroll\":20.835317480440974}"
+                },
+                {
+                  "title": "Campaign",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Kingdom of Thult/Overviews/Campaign.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Campaign\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":19},\"to\":{\"line\":0,\"ch\":19}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campains/Kingdom of Thult/Acts/Act I/The Bandit Camp/Design.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Design"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -341,8 +779,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 455.5,
-    "collapsed": true
+    "width": 421.5
   },
   "right": {
     "id": "10847445d600ab00",
@@ -351,6 +788,7 @@
       {
         "id": "2c5d95897bf755a2",
         "type": "tabs",
+        "dimension": 33.57843137254902,
         "children": [
           {
             "id": "c99dac415b786462",
@@ -428,30 +866,6 @@
             }
           },
           {
-            "id": "9af22cbf32b801c7",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "World/Races/Human/Human.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Human"
-            }
-          },
-          {
             "id": "d3a8200602775451",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -488,13 +902,122 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "e69bf395cde0ac9d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "bc509d7b288b45aa",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Campains/Regions/Eb/Count Alaric Ambrose/Description.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Description"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
+      },
+      {
+        "id": "64d62b2154c67629",
+        "type": "tabs",
+        "dimension": 66.42156862745098,
+        "children": [
+          {
+            "id": "8c08a26f3cfa8159",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          },
+          {
+            "id": "d60198170335c850",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          },
+          {
+            "id": "0445043b36c300bb",
+            "type": "leaf",
+            "dimension": 50,
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 494.5
+    "width": 497.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -510,57 +1033,60 @@
       "copilot:Open Copilot Chat": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-stille:Toggle Stille": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "eae82785c42ddb68",
+  "active": "7e5179e088a69eb2",
   "lastOpenFiles": [
+    "Campains/Kingdom of Thult/Acts/Act I/The Bandit Camp/The Bandit Camp.md",
+    "Campains/Kingdom of Thult/Acts/Act I/The Bandit Camp/Design.md",
+    "Campains/Kingdom of Thult/Acts/Act I/The Bandit Camp",
+    "Campains/Regions/Eb/Tavern/The Thorne Family.md",
+    "Campains/Regions/Eb/Count Alaric Ambrose/Description.md",
+    "Campains/Regions/Eb/Count Alaric Ambrose/Z - D&D Character Sheet old.md",
+    "Campains/Regions/Eb/Tavern/Tavernkeep.md",
+    "Campains/Dungeon Master's Guide.pdf",
+    "Campains/Kingdom of Thult/General Story.md",
+    "Campains/Kingdom of Thult/Acts",
+    "Campains/Kingdom of Thult/Maps/Eb.png",
+    "Campains/Kingdom of Thult/Maps/Kingdom of Thult.png",
+    "Campains/Kingdom of Thult/Maps/Solonte.png",
+    "Campains/Kingdom of Thult/Overviews/Campaign.md",
+    "Campains/Kingdom of Thult/Overviews/World.md",
+    "Campains/Kingdom of Thult/Overviews",
+    "Campains/Kingdom of Thult/Acts/Act II/Creating an Eerie and Scary Atmosphere in Act II.md",
+    "Campains/Kingdom of Thult/Acts/Act I",
+    "Campains/Kingdom of Thult/Acts/Act II/Quest - The Rising Song of the Hydra.md",
+    "Campains/SRD-OGL_V5.1.pdf",
+    "Campains/Kingdom of Thult/Acts/Act II/Expanded Investigative Journey Through Eb.md",
+    "Campains/Kingdom of Thult/Acts/Act II",
+    "Campains/Kingdom of Thult",
+    "Campains/Overviews",
+    "Campains/Monster Manual.pdf",
+    "Campains/Regions/Eb/Tavern/Untitled.canvas",
     "World/Magic/Magic.md",
+    "World/General Kanban.md",
+    "World/Races/Human/Human.md",
+    "World/Biomes/Verdant Highlands/Verdant Highlands.md",
+    "World/Races/Forged/Forged.md",
+    "World/Races/Cambion/Cambion.md",
+    "World/Races/Nyxil/Nyxil.md",
     "World/Magic/Telekenesis/Telekenesis.md",
     "World/Magic/Animacy/Animacy.md",
-    "World/Magic/Telekenesis",
     "World/Magic/Alchemy/Alchemy.md",
-    "World/Races/Human/Human.md",
-    "World/Races/Nyxil/Nyxil.md",
     "World/Races/Nyxil/nyxil_banner.jpg",
     "World/Races/Nyxil/nyxil_banner.webp",
-    "World/Races/Forged/Forged.md",
     "World/Magic/Shadow/Shadow.md",
     "World/Magic/Art/banner_magic.jpg",
     "World/Magic/Alchemy/alchemy_banner (2).jpg",
     "World/Magic/Alchemy/high-angle-ouija-board-lamp.jpg",
-    "World/Magic/Alchemy/Untitled",
     "World/Magic/Shadow/shadow_banner.jpg",
-    "World/Magic/Shadow/art/shadow_banner.jpg.crdownload",
-    "World/Magic/Shadow/art",
-    "World/Magic/Shadow/New folder",
     "World/Magic/Enchanting/Enchanting.md",
     "World/Magic/Negative/Negative.md",
     "World/Magic/Negative/Art/Banner.jpg",
-    "World/Magic/Negative/Art/Banner.jpg.crdownload",
-    "World/Magic/Enchanting/enchanting_banner.png",
-    "World/Magic/Enchanting/enchanting_banner.png.crdownload",
-    "World/Magic/Alchemy/alchemy_banner.jpg",
-    "World/Magic/Art/banner_magic.jpg.crdownload",
-    "World/Magic/Alchemy/ingredients-candles-around-notebook.jpg.crdownload",
-    "World/Magic/Alchemy/aesthetic-astrology-dbat1z9z5gyspsp4-jpg.jpg.crdownload",
-    "World/General Kanban.md",
     "README.md",
-    "World/Races/Owlin/Owlin.md",
-    "World/Races/Cambion/Cambion.md",
-    "World/Races/Plasmoid/Plasmoid.md",
-    "World/Biomes/Verdant Highlands/Verdant Highlands.md",
-    "2 - Other/This is a file i pushed from my pc and pulled to my laptop.md",
-    "2 - Other/Programming/FINISH THIS CARD GAME.md",
-    "2 - Other/Favorite Games.md",
     "2 - Other/Games/Fav games copy.canvas",
-    "2 - Other/Games/Favorite Games.md",
-    "2 - Other/Games/Minecraft/Minecraft Server - Forest Odessy.md",
-    "2 - Other/Games/Minecraft/Minecraft Server - Forest Odessy 1.md",
-    "2 - Other/Games/Minecraft/Minecraft Server.md",
-    "2 - Other/Games/Minecraft Server.md",
-    "2 - Other/Games/Minecraft/Minecraft - Dark Void.md",
-    "1 - School/Klasa 3/Biologia/25.03.06 Organizmy w środowisku i tolerancja ekologiczna.md",
     "World/Magic/Negative/Negative.canvas",
     "Untitled.canvas"
   ]

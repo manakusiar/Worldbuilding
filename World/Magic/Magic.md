@@ -1,18 +1,28 @@
 ---
 banner: "[[banner_magic.jpg]]"
+banner-height: 350
+banner-x: 50
+banner-y: 50
+banner-display: cover
 ---
 # Mana
-Mana is a substance produced by every mage and it serves as the "fuel" for the caster to manage and control in order to convert it on the fly into any sort of energy. This means that a mage can utilise their mana to create mechanical, thermal, radiant, sound, light or even electrical energy.
+Mana is a substance produced by every mage and it serves as the "fuel" for the caster to manage and control in order to convert it on the fly into any sort of enfergy. This means that a mage can utilise their mana to create mechanical, thermal, radiant, sound, light or even electrical energy.
 
-Mana is a very stable substance, only transforming into the specified energy that the caster wills it to be - the only problem is that every form of said energy requires different preparation, whether its an advanced body, enchanted weapon, or conduit. Not meeting the minimum requirements of the specified energy will result in dire concequences, sometimes resulting in death.
+Mana is a very stable substance, only transforming into the specified energy that the caster wills it to be - the only problem is that every form of said energy requires different preparation, whether its an advanced body, enchanted weapon, or conduit. Not meeting the minimum requirements of the specified energy will result in dire consequences, sometimes resulting in death.
 	Many races not only have a natural affinity to using specific types of energy, but most also have naturally adjusted bodies, meaning that they can use certain spells without needing too much prior training.
 
 Most rases that are mana dependant, require a reliable flow of mana throughout their circulatory system, the same way they need blood. This results in many diseases that can take advantage of their natural flow of mana to feed and spread - meaning that it greatly weakens the caster in more ways than just restricting their magic use. 
 ## Mana types
 There exist many types of mana that all serve their own purposes excluding the classic energy-mana type. A few examples:
-- **Design-Mana**:
+- **Composition-Mana**:
 	A greatly compressed form of mana, with a great range of possibilities when it comes to solidification. This mana is a very conductive substance, that under the control of the casters will and specifications, is able to expand and compress to extreme sizes - usually used for forging weaponry and armour on the fly, that can be easily liquified and stored in a small space. 
 		As it is a ferromagnetic substance its highly susceptible to [[Telekenesis]]
+## Mana regeneration
+Since mana is generated through calories similar to the way rases usually gain energy, mages who train / cast often, eat like beasts. 
+- **Endurance**:
+	Of course the expended calories all depend on the casters endurance, metabolism, body and the spell that was cast. 
+- **Digestion**:
+	A experienced mage is able to hold and use a lot of mana, but this mana must come from somewhere - some simply enjoy the pleasure of being able to scarf down more food, but others decide to consume food that is more mana-friendly, meaning that either they are already infused with mana, or they are easy to digest and rich with any minerals/
 # Organs  
 ## Heart  
 The core organ of every mage, the heart is not merely a life-sustaining pump but is deeply intertwined with a mage's magical essence. Mana acts as an energy that, like blood, circulates throughout the body, and it is the heart that ensures it reaches every corner where it is needed. 
@@ -22,7 +32,7 @@ Often referred to as the "*mana heart*," this organ becomes more critical for th
 
 ## Mana Glands  
 Mana glands play a crucial role as they consistently produce and infuse both naturally generated and consumed mana into the circulatory system. These glands work in tandem with other organs, transforming ordinary nutrients and cellular by-products into pure mana. 
-	This conversion process is directly tied to the creature's metabolism, meaning that a more active or higher metabolism can result in a faster and more abundant production of mana. In practical terms, a mage who maintains a healthy lifestyle with regular exercise and proper nutrition might notice that their mana glands operate more effectively, thereby boosting their ability to perform sustained or more intricate spells. They serve not only as mana production centers but also as vital regulators that harmonize the body's overall magical energy.  
+	This conversion process is directly tied to the creature's metabolism, meaning that a more active or higher metabolism can result in a faster and more abundant production of mana. In practical terms, a mage who maintains a healthy lifestyle with regular exercise and proper nutrition might notice that their mana glands operate more effectively, thereby boosting their ability to perform sustained or more intricate spells. They serve not only as mana production centres but also as vital regulators that harmonize the body's overall magical energy.  
 
 ## Mana Pathways  
 Mana pathways are akin to the body's blood vessels and nerve fibres, forming an intricate network that distributes mana to any organ that requires it. Some of these pathways bear a close resemblance to blood vessels, channelling mana with fluid dynamics, while others function more like nerves, transmitting subtle energies to stimulate or regulate specific bodily functions. 

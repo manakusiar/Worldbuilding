@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiHeartPulse",
-      "LiAtom",
-      "LiAArrowDown",
-      "3️⃣",
-      "LiBrainCircuit"
+      "LiAnvil",
+      "LiBookText",
+      "LiBookOpen",
+      "LiBookCopy",
+      "LiNotebook"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -42,5 +42,10 @@
   "World/General Kanban.md": "LiSquareKanban",
   "1 - School": "LiSchool",
   "2 - Other": "LiAlbum",
-  "copilot-custom-prompts": "LiBrainCircuit"
+  "copilot-custom-prompts": "LiBrainCircuit",
+  "Campains": "LiFolderPen",
+  "Campains/Kingdom of Thult/Overviews": "LiNotebook",
+  "Campains/Kingdom of Thult/General Story.md": "LiBookText",
+  "Campains/Kingdom of Thult/Maps": "LiMap",
+  "Campains/Kingdom of Thult/Acts": "LiAnvil"
 }
