@@ -34,18 +34,13 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "World/Races": "LiPersonStanding",
-  "World/Magic": "LiWand",
-  "World/Biomes": "LiMountainSnow",
-  "World": "LiEarth",
   "_obsidian": "LiFolderCode",
-  "World/General Kanban.md": "LiSquareKanban",
   "1 - School": "LiSchool",
   "2 - Other": "LiAlbum",
   "copilot-custom-prompts": "LiBrainCircuit",
-  "Campains": "LiFolderPen",
-  "Campains/Kingdom of Thult/Overviews": "LiNotebook",
-  "Campains/Kingdom of Thult/General Story.md": "LiBookText",
-  "Campains/Kingdom of Thult/Maps": "LiMap",
-  "Campains/Kingdom of Thult/Acts": "LiAnvil"
+  "Worldbuilt World": "LiEarth",
+  "Worldbuilt World/Magic": "LiWand",
+  "Worldbuilt World/Races": "LiPersonStanding",
+  "Worldbuilt World/General Kanban.md": "LiSquareKanban",
+  "Worldbuilt World/Biomes": "LiMountainSnow"
 }

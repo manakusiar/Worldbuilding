@@ -11,10 +11,58 @@
             "id": "eae82785c42ddb68",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
                 {
+                  "title": "Character85989",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Character85989.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Character85989\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":186,\"ch\":9},\"to\":{\"line\":186,\"ch\":9}},\"scroll\":307.64567758515267}"
+                },
+                {
                   "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "General Kanban",
+                  "icon": "lucide-trello",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Worldbuilt World/General Kanban.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}},\"icon\":\"lucide-trello\",\"title\":\"General Kanban\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "README",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"README\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Magic",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worldbuilt World/Magic/Magic.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Magic\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":162},\"to\":{\"line\":8,\"ch\":162}},\"scroll\":5.609824411492599}"
+                },
+                {
+                  "title": "README",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"README\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":2},\"to\":{\"line\":4,\"ch\":2}}}"
+                },
+                {
+                  "title": "Players Handbook",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"Campains/Players Handbook.pdf\"},\"icon\":\"lucide-file-text\",\"title\":\"Players Handbook\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Monster Manual",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"Campains/Monster Manual.pdf\"},\"icon\":\"lucide-file-text\",\"title\":\"Monster Manual\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Dungeon Master's Guide",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"Campains/Dungeon Master's Guide.pdf\"},\"icon\":\"lucide-file-text\",\"title\":\"Dungeon Master's Guide\"}",
                   "eState": "{}"
                 },
                 {
@@ -230,307 +278,307 @@
                 {
                   "title": "Magic",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Magic/Magic.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Magic\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worldbuilt World/Magic/Magic.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Magic\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":162},\"to\":{\"line\":8,\"ch\":162}}}"
                 },
                 {
                   "title": "General Kanban",
                   "icon": "lucide-trello",
-                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"World/General Kanban.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}},\"icon\":\"lucide-trello\",\"title\":\"General Kanban\"}",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Worldbuilt World/General Kanban.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}},\"icon\":\"lucide-trello\",\"title\":\"General Kanban\"}",
                   "eState": "{}"
                 },
                 {
                   "title": "Human",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Races/Human/Human.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Human\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worldbuilt World/Races/Human/Human.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Human\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":463},\"to\":{\"line\":3,\"ch\":463}},\"scroll\":3.85500005086263}"
                 },
                 {
                   "title": "Verdant Highlands",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Biomes/Verdant Highlands/Verdant Highlands.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Verdant Highlands\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worldbuilt World/Biomes/Verdant Highlands/Verdant Highlands.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Verdant Highlands\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":0}"
                 },
                 {
                   "title": "Forged",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Races/Forged/Forged.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Forged\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worldbuilt World/Races/Forged/Forged.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Forged\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}},\"scroll\":0.76}"
                 },
                 {
                   "title": "Cambion",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Races/Cambion/Cambion.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cambion\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worldbuilt World/Races/Cambion/Cambion.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cambion\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
                 },
                 {
                   "title": "Magic",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Magic/Magic.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Magic\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worldbuilt World/Magic/Magic.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Magic\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":198},\"to\":{\"line\":8,\"ch\":198}},\"scroll\":0}"
                 },
                 {
                   "title": "General Kanban",
                   "icon": "lucide-trello",
-                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"World/General Kanban.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}},\"icon\":\"lucide-trello\",\"title\":\"General Kanban\"}",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Worldbuilt World/General Kanban.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false,false,false,false]}},\"icon\":\"lucide-trello\",\"title\":\"General Kanban\"}",
                   "eState": "{}"
                 },
                 {
                   "title": "Magic",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Magic/Magic.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Magic\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worldbuilt World/Magic/Magic.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Magic\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":346},\"to\":{\"line\":6,\"ch\":346}},\"scroll\":2.372093023255814}"
                 },
                 {
                   "title": "Nyxil",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Races/Nyxil/Nyxil.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Nyxil\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worldbuilt World/Races/Nyxil/Nyxil.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Nyxil\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":0},\"to\":{\"line\":31,\"ch\":0}},\"scroll\":0.7420613068392018}"
                 },
                 {
                   "title": "Magic",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Magic/Magic.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Magic\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worldbuilt World/Magic/Magic.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Magic\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":28},\"to\":{\"line\":11,\"ch\":28}},\"scroll\":15.995969034093036}"
                 },
                 {
                   "title": "Telekenesis",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Magic/Telekenesis/Telekenesis.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Telekenesis\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worldbuilt World/Magic/Telekenesis/Telekenesis.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Telekenesis\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":227},\"to\":{\"line\":18,\"ch\":227}},\"scroll\":9.427777767181396}"
                 },
                 {
                   "title": "Magic",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Magic/Magic.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Magic\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worldbuilt World/Magic/Magic.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Magic\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":1.3395348837209302}"
                 },
                 {
                   "title": "Telekenesis",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Magic/Telekenesis/Telekenesis.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Telekenesis\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worldbuilt World/Magic/Telekenesis/Telekenesis.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Telekenesis\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":139},\"to\":{\"line\":5,\"ch\":139}},\"scroll\":0}"
                 },
                 {
                   "title": "Magic",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Magic/Magic.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Magic\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worldbuilt World/Magic/Magic.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Magic\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":120},\"to\":{\"line\":4,\"ch\":120}},\"scroll\":0.005581395432006481}"
                 },
                 {
                   "title": "Telekenesis",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Magic/Telekenesis/Telekenesis.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Telekenesis\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worldbuilt World/Magic/Telekenesis/Telekenesis.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Telekenesis\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":139},\"to\":{\"line\":5,\"ch\":139}},\"scroll\":0}"
                 },
                 {
                   "title": "Animacy",
                   "icon": "excalidraw-icon",
-                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"World/Magic/Animacy/Animacy.md\"},\"icon\":\"excalidraw-icon\",\"title\":\"Animacy\"}",
+                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Worldbuilt World/Magic/Animacy/Animacy.md\"},\"icon\":\"excalidraw-icon\",\"title\":\"Animacy\"}",
                   "eState": "{}"
                 },
                 {
                   "title": "Magic",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Magic/Magic.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Magic\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worldbuilt World/Magic/Magic.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Magic\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":7},\"to\":{\"line\":3,\"ch\":7}},\"scroll\":0.46325582459915515}"
                 },
                 {
                   "title": "Alchemy",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Magic/Alchemy/Alchemy.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Alchemy\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worldbuilt World/Magic/Alchemy/Alchemy.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Alchemy\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":210},\"to\":{\"line\":3,\"ch\":210}}}"
                 },
                 {
                   "title": "Magic",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Magic/Magic.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Magic\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worldbuilt World/Magic/Magic.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Magic\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":225},\"to\":{\"line\":6,\"ch\":225}},\"scroll\":0}"
                 },
                 {
                   "title": "Human",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Races/Human/Human.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Human\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worldbuilt World/Races/Human/Human.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Human\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":463},\"to\":{\"line\":3,\"ch\":463}},\"scroll\":0.5247}"
                 },
                 {
                   "title": "Nyxil",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Races/Nyxil/Nyxil.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Nyxil\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worldbuilt World/Races/Nyxil/Nyxil.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Nyxil\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":50,\"ch\":478},\"to\":{\"line\":50,\"ch\":478}},\"scroll\":0}"
                 },
                 {
                   "title": "nyxil_banner",
                   "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"World/Races/Nyxil/nyxil_banner.jpg\"},\"icon\":\"lucide-image\",\"title\":\"nyxil_banner\"}",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Worldbuilt World/Races/Nyxil/nyxil_banner.jpg\"},\"icon\":\"lucide-image\",\"title\":\"nyxil_banner\"}",
                   "eState": "{}"
                 },
                 {
                   "title": "Nyxil",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Races/Nyxil/Nyxil.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Nyxil\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worldbuilt World/Races/Nyxil/Nyxil.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Nyxil\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":46,\"ch\":478},\"to\":{\"line\":46,\"ch\":478}},\"scroll\":0}"
                 },
                 {
                   "title": "Forged",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Races/Forged/Forged.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Forged\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worldbuilt World/Races/Forged/Forged.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Forged\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}},\"scroll\":0.76}"
                 },
                 {
                   "title": "Shadow",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Magic/Shadow/Shadow.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Shadow\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worldbuilt World/Magic/Shadow/Shadow.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Shadow\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
                 },
                 {
                   "title": "banner_magic",
                   "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"World/Magic/Art/banner_magic.jpg\"},\"icon\":\"lucide-image\",\"title\":\"banner_magic\"}",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Worldbuilt World/Magic/Art/banner_magic.jpg\"},\"icon\":\"lucide-image\",\"title\":\"banner_magic\"}",
                   "eState": "{}"
                 },
                 {
                   "title": "Animacy",
                   "icon": "excalidraw-icon",
-                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"World/Magic/Animacy/Animacy.md\"},\"icon\":\"excalidraw-icon\",\"title\":\"Animacy\"}",
+                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Worldbuilt World/Magic/Animacy/Animacy.md\"},\"icon\":\"excalidraw-icon\",\"title\":\"Animacy\"}",
                   "eState": "{}"
                 },
                 {
                   "title": "Alchemy",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Magic/Alchemy/Alchemy.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Alchemy\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worldbuilt World/Magic/Alchemy/Alchemy.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Alchemy\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":55},\"to\":{\"line\":3,\"ch\":55}}}"
                 },
                 {
                   "title": "Shadow",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Magic/Shadow/Shadow.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Shadow\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worldbuilt World/Magic/Shadow/Shadow.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Shadow\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":0}"
                 },
                 {
                   "title": "Enchanting",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Magic/Enchanting/Enchanting.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Enchanting\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worldbuilt World/Magic/Enchanting/Enchanting.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Enchanting\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":0},\"to\":{\"line\":26,\"ch\":0}},\"scroll\":0.8156}"
                 },
                 {
                   "title": "Shadow",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Magic/Shadow/Shadow.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Shadow\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worldbuilt World/Magic/Shadow/Shadow.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Shadow\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
                   "title": "Negative",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Magic/Negative/Negative.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Negative\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worldbuilt World/Magic/Negative/Negative.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Negative\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":189},\"to\":{\"line\":3,\"ch\":189}},\"scroll\":2.958139534883721}"
                 },
                 {
                   "title": "Banner",
                   "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"World/Magic/Negative/Art/Banner.jpg\"},\"icon\":\"lucide-image\",\"title\":\"Banner\"}",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Worldbuilt World/Magic/Negative/Art/Banner.jpg\"},\"icon\":\"lucide-image\",\"title\":\"Banner\"}",
                   "eState": "{}"
                 },
                 {
                   "title": "Negative",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Magic/Negative/Negative.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Negative\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worldbuilt World/Magic/Negative/Negative.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Negative\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":227},\"to\":{\"line\":25,\"ch\":227}},\"scroll\":0.1116}"
                 },
                 {
                   "title": "Shadow",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Magic/Shadow/Shadow.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Shadow\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worldbuilt World/Magic/Shadow/Shadow.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Shadow\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
                   "title": "Negative",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Magic/Negative/Negative.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Negative\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worldbuilt World/Magic/Negative/Negative.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Negative\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":227},\"to\":{\"line\":25,\"ch\":227}},\"scroll\":0.1172}"
                 },
                 {
                   "title": "Shadow",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Magic/Shadow/Shadow.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Shadow\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worldbuilt World/Magic/Shadow/Shadow.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Shadow\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Negative",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Magic/Negative/Negative.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Negative\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worldbuilt World/Magic/Negative/Negative.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Negative\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":0}"
                 },
                 {
                   "title": "Enchanting",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Magic/Enchanting/Enchanting.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Enchanting\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worldbuilt World/Magic/Enchanting/Enchanting.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Enchanting\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":0},\"to\":{\"line\":26,\"ch\":0}},\"scroll\":0.9827}"
                 },
                 {
                   "title": "enchanting_banner",
                   "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"World/Magic/Enchanting/enchanting_banner.png\"},\"icon\":\"lucide-image\",\"title\":\"enchanting_banner\"}",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Worldbuilt World/Magic/Enchanting/enchanting_banner.png\"},\"icon\":\"lucide-image\",\"title\":\"enchanting_banner\"}",
                   "eState": "{}"
                 },
                 {
                   "title": "Enchanting",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Magic/Enchanting/Enchanting.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Enchanting\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worldbuilt World/Magic/Enchanting/Enchanting.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Enchanting\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":0},\"to\":{\"line\":26,\"ch\":0}},\"scroll\":0.9894}"
                 },
                 {
                   "title": "Alchemy",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Magic/Alchemy/Alchemy.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Alchemy\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worldbuilt World/Magic/Alchemy/Alchemy.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Alchemy\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
                 },
                 {
                   "title": "Magic",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Magic/Magic.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Magic\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worldbuilt World/Magic/Magic.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Magic\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
                 },
                 {
                   "title": "Alchemy",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Magic/Alchemy/Alchemy.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Alchemy\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worldbuilt World/Magic/Alchemy/Alchemy.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Alchemy\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
                 },
                 {
                   "title": "banner_magic",
                   "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"World/Magic/Art/banner_magic.jpg\"},\"icon\":\"lucide-image\",\"title\":\"banner_magic\"}",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Worldbuilt World/Magic/Art/banner_magic.jpg\"},\"icon\":\"lucide-image\",\"title\":\"banner_magic\"}",
                   "eState": "{}"
                 },
                 {
                   "title": "Enchanting",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Magic/Enchanting/Enchanting.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Enchanting\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worldbuilt World/Magic/Enchanting/Enchanting.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Enchanting\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
                 },
                 {
                   "title": "banner_magic",
                   "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"World/Magic/Art/banner_magic.jpg\"},\"icon\":\"lucide-image\",\"title\":\"banner_magic\"}",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Worldbuilt World/Magic/Art/banner_magic.jpg\"},\"icon\":\"lucide-image\",\"title\":\"banner_magic\"}",
                   "eState": "{}"
                 },
                 {
                   "title": "Magic",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Magic/Magic.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Magic\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worldbuilt World/Magic/Magic.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Magic\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
                 },
                 {
                   "title": "Alchemy",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Magic/Alchemy/Alchemy.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Alchemy\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Worldbuilt World/Magic/Alchemy/Alchemy.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Alchemy\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
                 },
                 {
                   "title": "alchemy_banner",
                   "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"World/Magic/Alchemy/alchemy_banner.jpg\"},\"icon\":\"lucide-image\",\"title\":\"alchemy_banner\"}",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Worldbuilt World/Magic/Alchemy/alchemy_banner.jpg\"},\"icon\":\"lucide-image\",\"title\":\"alchemy_banner\"}",
                   "eState": "{}"
                 }
               ]
@@ -538,183 +586,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campains/Kingdom of Thult/Overviews/World.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "World"
-            }
-          },
-          {
-            "id": "2fb2fc828a4dc523",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "The Bandit Camp",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Kingdom of Thult/Acts/Act I/The Bandit Camp/The Bandit Camp.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Bandit Camp\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":8},\"to\":{\"line\":8,\"ch\":8}},\"scroll\":4.4176586266878335}"
-                },
-                {
-                  "title": "Design",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Kingdom of Thult/Acts/Act I/The Bandit Camp/Design.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Design\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "The Bandit Camp",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Kingdom of Thult/Acts/Act I/The Bandit Camp/The Bandit Camp.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Bandit Camp\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":8},\"to\":{\"line\":8,\"ch\":8}},\"scroll\":0.9254}"
-                },
-                {
-                  "title": "Design",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Kingdom of Thult/Acts/Act I/The Bandit Camp/Design.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Design\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "The Bandit Camp",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Kingdom of Thult/Acts/Act I/The Bandit Camp/The Bandit Camp.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Bandit Camp\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":8},\"to\":{\"line\":8,\"ch\":8}},\"scroll\":0.9328}"
-                },
-                {
-                  "title": "Design",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Kingdom of Thult/Acts/Act I/The Bandit Camp/Design.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Desighn\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "The Bandit Camp",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Kingdom of Thult/Acts/Act I/The Bandit Camp/The Bandit Camp.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Bandit Camp\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":8},\"to\":{\"line\":8,\"ch\":8}},\"scroll\":0.9328358142565556}"
-                },
-                {
-                  "title": "The Thorne Family",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Regions/Eb/Tavern/The Thorne Family.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Thorne Family\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":143},\"to\":{\"line\":5,\"ch\":143}}}"
-                },
-                {
-                  "title": "Description",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Regions/Eb/Count Alaric Ambrose/Description.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Description\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Z - D&D Character Sheet old",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Regions/Eb/Count Alaric Ambrose/Z - D&D Character Sheet old.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Z - D&D Character Sheet old\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "The Thorne Family",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Regions/Eb/Tavern/The Thorne Family.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Thorne Family\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":176},\"to\":{\"line\":8,\"ch\":176}}}"
-                },
-                {
-                  "title": "Tavernkeep",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Regions/Eb/Tavern/Tavernkeep.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Tavernkeep\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":169},\"to\":{\"line\":2,\"ch\":169}}}"
-                },
-                {
-                  "title": "Dungeon Master's Guide",
-                  "icon": "lucide-file-text",
-                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"Campains/Dungeon Master's Guide.pdf\"},\"icon\":\"lucide-file-text\",\"title\":\"Dungeon Master's Guide\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "The Bandit Camp",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Kingdom of Thult/Acts/Act I/The Bandit Camp/The Bandit Camp.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Bandit Camp\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":8},\"to\":{\"line\":8,\"ch\":8}}}"
-                },
-                {
-                  "title": "General Story",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Kingdom of Thult/General Story.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"General Story\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-                },
-                {
-                  "title": "Eb",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Campains/Kingdom of Thult/Maps/Eb.png\"},\"icon\":\"lucide-image\",\"title\":\"Eb\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Kingdom of Thult",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Campains/Kingdom of Thult/Maps/Kingdom of Thult.png\"},\"icon\":\"lucide-image\",\"title\":\"Kingdom of Thult\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Solonte",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Campains/Kingdom of Thult/Maps/Solonte.png\"},\"icon\":\"lucide-image\",\"title\":\"Solonte\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Kingdom of Thult",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Campains/Kingdom of Thult/Maps/Kingdom of Thult.png\"},\"icon\":\"lucide-image\",\"title\":\"Kingdom of Thult\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Solonte",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Campains/Kingdom of Thult/Maps/Solonte.png\"},\"icon\":\"lucide-image\",\"title\":\"Solonte 2025-04-15-14-47\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Kingdom of Thult",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Campains/Kingdom of Thult/Maps/Kingdom of Thult.png\"},\"icon\":\"lucide-image\",\"title\":\"Solonte 2025-04-15-14-47 (1)\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Eb",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Campains/Kingdom of Thult/Maps/Eb.png\"},\"icon\":\"lucide-image\",\"title\":\"eb-min\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "General Story",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Kingdom of Thult/General Story.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"General Story\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":13},\"to\":{\"line\":3,\"ch\":13}},\"scroll\":20.835317480440974}"
-                },
-                {
-                  "title": "Campaign",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campains/Kingdom of Thult/Overviews/Campaign.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Campaign\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":19},\"to\":{\"line\":0,\"ch\":19}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campains/Kingdom of Thult/Acts/Act I/The Bandit Camp/Design.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Design"
+              "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -788,7 +668,6 @@
       {
         "id": "2c5d95897bf755a2",
         "type": "tabs",
-        "dimension": 56.98529411764706,
         "children": [
           {
             "id": "c99dac415b786462",
@@ -805,7 +684,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World/Races/Nyxil/Nyxil.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -815,7 +694,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Nyxil"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -833,12 +712,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Races/Owlin/Owlin.md",
+                "file": "README.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Owlin"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -857,7 +736,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -947,73 +826,7 @@
             }
           }
         ],
-        "currentTab": 4
-      },
-      {
-        "id": "64d62b2154c67629",
-        "type": "tabs",
-        "dimension": 43.01470588235294,
-        "children": [
-          {
-            "id": "8c08a26f3cfa8159",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "fantasy-statblocks-creature-pane",
-              "state": {},
-              "icon": "skull",
-              "title": "Combatant"
-            }
-          },
-          {
-            "id": "d60198170335c850",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "fantasy-statblocks-creature-pane",
-              "state": {},
-              "icon": "skull",
-              "title": "Combatant"
-            }
-          },
-          {
-            "id": "0445043b36c300bb",
-            "type": "leaf",
-            "dimension": 50,
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "fantasy-statblocks-creature-pane",
-              "state": {},
-              "icon": "skull",
-              "title": "Combatant"
-            }
-          }
-        ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -1037,55 +850,55 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "d60198170335c850",
+  "active": "08e1c151adb47bc6",
   "lastOpenFiles": [
+    "Character85989.md",
+    "README.md",
+    "Player Characters",
+    "Worldbuilt World/General Kanban.md",
+    "Worldbuilt World/Magic/Magic.md",
+    "Campains/Players Handbook.pdf",
+    "Campains/Monster Manual.pdf",
+    "Campains/Dungeon Master's Guide.pdf",
     "Campains/Kingdom of Thult/Acts/Act I/The Bandit Camp/The Bandit Camp.md",
     "Campains/Kingdom of Thult/Acts/Act I/The Bandit Camp/Design.md",
-    "Campains/Kingdom of Thult/Acts/Act I/The Bandit Camp",
-    "Campains/Regions/Eb/Tavern/The Thorne Family.md",
-    "Campains/Regions/Eb/Count Alaric Ambrose/Description.md",
     "Campains/Regions/Eb/Count Alaric Ambrose/Z - D&D Character Sheet old.md",
+    "Campains/Regions/Eb/Count Alaric Ambrose/Description.md",
+    "Campains/Regions/Eb/Tavern/The Thorne Family.md",
     "Campains/Regions/Eb/Tavern/Tavernkeep.md",
-    "Campains/Dungeon Master's Guide.pdf",
-    "Campains/Kingdom of Thult/General Story.md",
-    "Campains/Kingdom of Thult/Acts",
-    "Campains/Kingdom of Thult/Maps/Eb.png",
-    "Campains/Kingdom of Thult/Maps/Kingdom of Thult.png",
-    "Campains/Kingdom of Thult/Maps/Solonte.png",
-    "Campains/Kingdom of Thult/Overviews/Campaign.md",
-    "Campains/Kingdom of Thult/Overviews/World.md",
-    "Campains/Kingdom of Thult/Overviews",
-    "Campains/Kingdom of Thult/Acts/Act II/Creating an Eerie and Scary Atmosphere in Act II.md",
-    "Campains/Kingdom of Thult/Acts/Act I",
-    "Campains/Kingdom of Thult/Acts/Act II/Quest - The Rising Song of the Hydra.md",
-    "Campains/SRD-OGL_V5.1.pdf",
     "Campains/Kingdom of Thult/Acts/Act II/Expanded Investigative Journey Through Eb.md",
+    "Campains/Kingdom of Thult/Acts/Act II/Quest - The Rising Song of the Hydra.md",
+    "Campains/Kingdom of Thult/Acts/Act II/Creating an Eerie and Scary Atmosphere in Act II.md",
+    "Campains/Kingdom of Thult/Acts/Act I/The Bandit Camp",
+    "Campains/Regions/Eb/Count Alaric Ambrose",
+    "Campains/Regions/Eb/Tavern",
+    "Campains/Kingdom of Thult/Overviews/World.md",
+    "Campains/Kingdom of Thult/Overviews/Campaign.md",
+    "Campains/Kingdom of Thult/Maps/Solonte 2025-04-15-10-19.map",
+    "Campains/Kingdom of Thult/Maps/Solonte.png",
+    "Campains/Kingdom of Thult/Maps/Kingdom of Thult.png",
+    "Campains/Kingdom of Thult/Maps/Eb.png",
     "Campains/Kingdom of Thult/Acts/Act II",
-    "Campains/Kingdom of Thult",
-    "Campains/Overviews",
-    "Campains/Monster Manual.pdf",
+    "Campains/Kingdom of Thult/Acts/Act I",
+    "Campains/Kingdom of Thult/General Story.md",
+    "Victor Campain/Notes/Session 1.md",
     "Campains/Regions/Eb/Tavern/Untitled.canvas",
-    "World/Magic/Magic.md",
-    "World/General Kanban.md",
-    "World/Races/Human/Human.md",
-    "World/Biomes/Verdant Highlands/Verdant Highlands.md",
-    "World/Races/Forged/Forged.md",
-    "World/Races/Cambion/Cambion.md",
-    "World/Races/Nyxil/Nyxil.md",
-    "World/Magic/Telekenesis/Telekenesis.md",
-    "World/Magic/Animacy/Animacy.md",
-    "World/Magic/Alchemy/Alchemy.md",
-    "World/Races/Nyxil/nyxil_banner.jpg",
+    "Worldbuilt World/Races/Human/Human.md",
+    "Worldbuilt World/Biomes/Verdant Highlands/Verdant Highlands.md",
+    "Worldbuilt World/Races/Forged/Forged.md",
+    "Worldbuilt World/Races/Cambion/Cambion.md",
+    "Worldbuilt World/Races/Nyxil/Nyxil.md",
+    "Worldbuilt World/Magic/Telekenesis/Telekenesis.md",
+    "Worldbuilt World/Magic/Animacy/Animacy.md",
+    "Worldbuilt World/Magic/Alchemy/Alchemy.md",
+    "Worldbuilt World/Races/Nyxil/nyxil_banner.jpg",
     "World/Races/Nyxil/nyxil_banner.webp",
-    "World/Magic/Shadow/Shadow.md",
-    "World/Magic/Art/banner_magic.jpg",
-    "World/Magic/Alchemy/alchemy_banner (2).jpg",
+    "Worldbuilt World/Magic/Shadow/Shadow.md",
+    "Worldbuilt World/Magic/Art/banner_magic.jpg",
+    "Worldbuilt World/Magic/Alchemy/alchemy_banner (2).jpg",
     "World/Magic/Alchemy/high-angle-ouija-board-lamp.jpg",
-    "World/Magic/Shadow/shadow_banner.jpg",
-    "World/Magic/Enchanting/Enchanting.md",
-    "World/Magic/Negative/Negative.md",
-    "World/Magic/Negative/Art/Banner.jpg",
-    "README.md",
+    "Worldbuilt World/Magic/Shadow/shadow_banner.jpg",
+    "Worldbuilt World/Magic/Negative/Art/Banner.jpg",
     "2 - Other/Games/Fav games copy.canvas",
     "World/Magic/Negative/Negative.canvas",
     "Untitled.canvas"
